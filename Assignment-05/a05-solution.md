@@ -117,7 +117,7 @@ No single tool captures the full surface area of a target domain. Combining pass
 
 ---
 
-## Task 4: Automated Scanner Comparison: OWASP ZAP vs. Burp Suite Professional (25%)
+## Task 4: Automated Scanner Comparison: OWASP ZAP vs. Burp Suite Professional
 
 Both OWASP ZAP (Zed Attack Proxy) and Burp Suite Professional were executed against the same vulnerable staging target (`http://app.staging-target.local`) under identical network conditions.
 
